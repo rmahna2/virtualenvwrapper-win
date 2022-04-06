@@ -33,7 +33,7 @@ echo.
 echo.   lsvirtualenv: list virtualenvs
 echo.
 echo.   mkproject: create a new project directory in $PROJECT_HOME
-          and its associated virtualenv in $WORKON_HOME
+echo.     and its associated virtualenv in $WORKON_HOME
 echo.
 ::echo.   mktmpenv: create a temporary virtualenv
 ::echo.
