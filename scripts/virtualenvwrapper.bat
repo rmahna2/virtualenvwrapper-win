@@ -32,7 +32,8 @@ echo.   lssitepackages: list contents of the site-packages directory
 echo.
 echo.   lsvirtualenv: list virtualenvs
 echo.
-echo.   mkproject: create a new project directory and its associated virtualenv
+echo.   mkproject: create a new project directory in $PROJECT_HOME
+          and its associated virtualenv in $WORKON_HOME
 echo.
 ::echo.   mktmpenv: create a temporary virtualenv
 ::echo.
